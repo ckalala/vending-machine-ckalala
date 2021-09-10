@@ -1,0 +1,4 @@
+Snickers::1.50::7
+Granola::0.75::0
+Reeses::1.50::8
+Twix::1.25::4
